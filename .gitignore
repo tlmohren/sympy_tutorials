@@ -1,4 +1,4 @@
 env/
-.ipynb_checkpoints
-*/__pychache__
+.ipynb_checkpoints 
 --local
+*__pycache__*

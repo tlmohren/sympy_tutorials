@@ -159,6 +159,6 @@ def draw_pendulum(ax_p):
 if __name__ == '__main__':
 
     fig_dim = (3, 3)
-    fig, ax0 = plt.subplots(1, 1, figsize=(3, 3), dpi=100)
+    fig, ax0 = plt.subplots(1, 1, figsize=(3, 3), dpi=300)
     draw_pendulum(ax0)
     plt.show()
